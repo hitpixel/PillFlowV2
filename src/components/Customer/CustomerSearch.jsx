@@ -128,4 +128,6 @@ const CustomerSearch = ({ onSelect, selectedCustomer, onClear }) => {
       )}
     </div>
   );
-}; 
+};
+
+export default CustomerSearch; 
